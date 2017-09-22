@@ -48,3 +48,12 @@ function joinNames( name1, name2 ){
 
 console.log(joinNames("Bala", "Ken"))
 
+/*
+var input1 = "Bala"
+var input2 = "Ken"
+var result = sum(input1,input2)
+
+console.log(  input1 + " & " + input2 )
+
+*/
+
